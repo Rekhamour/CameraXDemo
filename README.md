@@ -1,7 +1,7 @@
 # CameraX ML Kit Demo
 CameraX + ML Kit = ❤️
 
-Basic demo app using Android Jetpack CameraX API with ML Kit (previously firebase ML Kit).
+Basic demo app using Android Jetpack CameraX API with ML Kit.
 
 ### Features:
 - Camera (front & back)
@@ -24,6 +24,4 @@ Basic demo app using Android Jetpack CameraX API with ML Kit (previously firebas
 
 
 
-### Todos:
-- Flash(Torch) support.
-- Video support.
+
